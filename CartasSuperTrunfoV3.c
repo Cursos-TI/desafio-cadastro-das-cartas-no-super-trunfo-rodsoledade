@@ -2,7 +2,7 @@
 
 int main() {
     // Definindo o número de estados e cidades por estado
-    int num_estados = 2; // Estados de A a H
+    int num_estados = 8; // Estados de A a H
     int num_cidades_por_estado = 4; // 4 cidades por estado
 
     // Variáveis para armazenar os dados das cidades
